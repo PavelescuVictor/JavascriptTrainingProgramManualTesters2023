@@ -1,0 +1,40 @@
+/* Pseudo Elements Section */
+
+.movie-trending {
+  position: relative;
+}
+
+.movie-trending::after {
+  content: '';
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-accent);
+}
+
+.movie-trending .card-title::selection {
+  color: #ffffff;
+  background: var(--color-accent);
+}
+
+.movie-trending .card-title::first-letter {
+  color: var(--color-accent);
+  font-size: 2rem;
+}
+
+.unread {
+  position: relative;
+}
+
+.unread::after {
+  content: '';
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}

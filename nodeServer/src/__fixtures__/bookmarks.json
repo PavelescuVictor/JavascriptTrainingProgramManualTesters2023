@@ -1,0 +1,29 @@
+{
+   "bookmarks": [
+        {
+            "id": "69553fca-94a9-4195-813e-e5d9a47eb69f",
+            "userId": "717d29a8-4270-42a9-80fd-b7a6750ab04a",
+            "movieId": "3a5029b4-a5fc-4fb1-aec1-452ae3b6207f"
+        },
+        {
+            "id": "31a5d569-fbca-41a7-a705-13df6748e88b",
+            "userId": "717d29a8-4270-42a9-80fd-b7a6750ab04a",
+            "movieId": "28af6e3d-69e4-4123-8311-25a8c2cbba0d"
+        },
+        {
+            "id": "8683bd76-3c99-4d71-b100-7b346faeee39",
+            "userId": "717d29a8-4270-42a9-80fd-b7a6750ab04a",
+            "movieId": "2e0701c5-3398-4204-bbc7-b7c0a35d0afe"
+        },
+        {
+            "id": "d1f2ab87-55a8-4cea-9b8b-817573548bc3",
+            "userId": "b8fd7187-e7c6-47cc-89ae-c7bd0d20f75d",
+            "movieId": "e64bb9c5-f6d9-46d7-9ec8-8582487f262a"
+        },
+        {
+            "id": "6ff41a23-21d7-4440-b8fa-d884bc63ead7",
+            "userId": "b8fd7187-e7c6-47cc-89ae-c7bd0d20f75d",
+            "movieId": "1e389c7b-308a-425d-839a-780e937ef3da"
+        }
+    ]
+}

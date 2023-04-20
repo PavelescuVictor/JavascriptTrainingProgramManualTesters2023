@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": "3a5029b4-a5fc-4fb1-aec1-452ae3b6207f",
+      "title": "Dune",
+      "image": "Dune.jpg"
+    },
+    {
+      "id": "e64bb9c5-f6d9-46d7-9ec8-8582487f262a",
+      "title": "GodFather 1",
+      "image": "GodFather_1.jpg"
+    },
+    {
+      "id": "1e389c7b-308a-425d-839a-780e937ef3da",
+      "title": "GodFather 2",
+      "image": "GodFather_2.jpg"
+    },
+    {
+      "id": "65abbe92-7ae0-4e13-8ea7-9489735df75d",
+      "title": "Godfellas",
+      "image": "Goodfellas.jpg"
+    },
+    {
+      "id": "8d845a12-a6e1-4818-9169-58d08cb553ce",
+      "title": "Inception",
+      "image": "Inception.jpg"
+    },
+    {
+      "id": "28af6e3d-69e4-4123-8311-25a8c2cbba0d",
+      "title": "Interstellar",
+      "image": "Interstellar.jpg"
+    },
+    {
+      "id": "2e0701c5-3398-4204-bbc7-b7c0a35d0afe",
+      "title": "Jocker",
+      "image": "Jocker.jpg"
+    },
+    {
+      "id": "621cb108-2386-41f0-93d8-f1480fa6f5ad",
+      "title": "Matrix",
+      "image": "Matrix.jpg"
+    }
+  ]
+}

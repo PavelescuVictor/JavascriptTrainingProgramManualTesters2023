@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "717d29a8-4270-42a9-80fd-b7a6750ab04a",
+      "username": "user1",
+      "nickname": "Authorized",
+      "password": "password1",
+      "isSuperUser": true
+    },
+    {
+      "id": "b8fd7187-e7c6-47cc-89ae-c7bd0d20f75d",
+      "username": "user2",
+      "nickname": "Unauthorized",
+      "password": "password2",
+      "isSuperUser": false
+    }
+  ]
+}

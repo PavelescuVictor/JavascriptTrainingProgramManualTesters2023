@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(22, 22, 22);
+}
+
+button {
+  border: none;
+  transition: padding 0.2s ease-in, border-radius 0.3s ease-in-out;
+  padding: 10px;
+  border-radius: 15px;
+  display: block;
+}
+
+button:hover {
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 60px;
+}
+
+a {
+  transition: padding 0.2s ease-in, border-radius 0.3s ease-in-out;
+  padding: 10px;
+  border-radius: 15px;
+  display: block;
+}
+
+a:hover {
+  padding: 10px 15px;
+  border-radius: 60px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+}
+
+body > div {
+  display: flex;
+  gap: 30px;
+  padding: 30px;
+  height: fit-content;
+}
+
+body > div div {
+  background: rgb(238, 238, 238);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 300px;
+}
+
+body > div div img {
+  height: 300px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+
+body > div div p {
+  text-align: center;
+  padding: 5px 15px;
+}
+
+body > div div p:first-of-type {
+  font-size: 2rem;
+}
+
+body > div div a {
+  margin: auto;
+  height: fit-content;
+  text-decoration: none;
+  color: rgb(22, 22, 22);
+  background-color: rgb(41, 185, 137);
+  color: white;
+}
+
+body > div div button {
+  margin: auto;
+  height: fit-content;
+  text-decoration: none;
+  color: rgb(22, 22, 22);
+  background-color: rgb(41, 185, 137);
+  color: white;
+}
